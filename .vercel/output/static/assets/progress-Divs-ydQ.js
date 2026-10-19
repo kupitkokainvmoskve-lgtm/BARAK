@@ -1,0 +1,1 @@
+var e=`sh2-trainer-v1`,t={lessons:{},bestScore:0,attempts:0,lastScore:0};function n(){try{let n=localStorage.getItem(e);return n?{...t,...JSON.parse(n)}:{...t,lessons:{}}}catch{return{...t,lessons:{}}}}function r(t){localStorage.setItem(e,JSON.stringify(t))}export{r as n,n as t};

@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Sh-2 Тренажер",
+      "hasCanvas": true,
+      "bodyTextLen": 702,
+      "bodyTextHash": "3f84e9f373421349569ac896a728e1fbadfad11c7f8874bb8da6fd333247b5b4",
+      "bodyTextPrefix": "Sh-2 ТРЕНАЖЕР Огляд Симулятор Тести Курс БПАК · PLAIN AERO Sh-2 ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Sh-2 Тренажер",
+      "hasCanvas": true,
+      "bodyTextLen": 675,
+      "bodyTextHash": "bcb568697a740feb45913d8c60e9b59f29366de082d3bbcaab8fca4dbe74ff9a",
+      "bodyTextPrefix": "Sh-2 ТРЕНАЖЕР БПАК · PLAIN AERO Sh-2 Тренажер оператора Жива мод",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
